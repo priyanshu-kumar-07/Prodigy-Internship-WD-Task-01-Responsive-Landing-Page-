@@ -35,8 +35,7 @@ Landing-Page-Project/
 • Organizing a frontend project for GitHub deployment
 
 06.✅ Task Completed As Part Of:-
-Web Development Internship @Prodigy Infotech
-#WebDevelopment #Javascript #Css #Html #Landing_Page #Internship #ProdigyInfotech
+#WebDevelopment #Javascript #Css #Html #Landing_Page 
 
 📂 Access Output:-
 ➡️ [Google Drive Link]:https://drive.google.com/file/d/1zLgbTGLyv70njH62Eq2knslEkIf7LnJO/view?usp=drive_link
